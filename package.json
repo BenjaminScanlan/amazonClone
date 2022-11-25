@@ -2,9 +2,9 @@
   "name": "with-redux-toolkit",
   "version": "1.0.0",
   "scripts": {
-    "dev": "NODE_OPTIONS=--openssl-legacy-provider next",
-    "build": "NODE_OPTIONS=--openssl-legacy-provider next build",
-    "start": "NODE_OPTIONS=--openssl-legacy-provider next start"
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
   },
   "dependencies": {
     "@heroicons/react": "1.0.6",
